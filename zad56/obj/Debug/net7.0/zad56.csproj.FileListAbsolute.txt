@@ -1,0 +1,15 @@
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\bin\Debug\net7.0\zad56.exe
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\bin\Debug\net7.0\zad56.deps.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\bin\Debug\net7.0\zad56.runtimeconfig.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\bin\Debug\net7.0\zad56.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\bin\Debug\net7.0\zad56.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.csproj.AssemblyReference.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.AssemblyInfoInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.AssemblyInfo.cs
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.csproj.CoreCompileInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\refint\zad56.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\zad56.genruntimeconfig.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad56\obj\Debug\net7.0\ref\zad56.dll

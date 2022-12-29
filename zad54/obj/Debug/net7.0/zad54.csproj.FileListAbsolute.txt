@@ -1,0 +1,15 @@
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\bin\Debug\net7.0\zad54.exe
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\bin\Debug\net7.0\zad54.deps.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\bin\Debug\net7.0\zad54.runtimeconfig.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\bin\Debug\net7.0\zad54.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\bin\Debug\net7.0\zad54.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.csproj.AssemblyReference.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.AssemblyInfoInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.AssemblyInfo.cs
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.csproj.CoreCompileInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\refint\zad54.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\zad54.genruntimeconfig.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz8\zad54\obj\Debug\net7.0\ref\zad54.dll
